@@ -1,5 +1,5 @@
-// next.config.js
-/** @type {import('next').NextConfig} */
+ @type {import('next').NextConfig} 
+
 const nextConfig = {
   output: 'export', // produces a static export during build
 }
